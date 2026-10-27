@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Abdurahmon!+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;Django+%26+Telegram+Bot+Developer;Exploring+Backend+Development+%E2%9C%A8" alt="Typing SVG" />
 
-### 💙 Python Developer | Backend Enthusiast 💜
+###  Python Developer | Backend Enthusiast 
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Abdurahmon1274&style=for-the-badge&color=818CF8&label=PROFILE+VIEWS" alt="Profile views" />
@@ -151,14 +151,14 @@ I'm continuously developing my skills through practical projects.
 <a href="https://www.instagram.com/sidrah.8118/">
   <img src="https://img.shields.io/badge/Instagram-DB2777?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="https://monkeytype.com/">
+<a href="https://monkeytype.com/profile/Abdurahmon_571">
   <img src="https://img.shields.io/badge/Monkeytype-8B5CF6?style=for-the-badge&logo=monkeytype&logoColor=white" alt="Monkeytype" />
 </a>
 
 </div>
 
 - 📸 Instagram: [@sidrah.8118](https://www.instagram.com/sidrah.8118/)
-- ⌨️ Monkeytype: `Abdurahmon_571`
+- ⌨️ Monkeytype: [Abdurahmon_571](https://monkeytype.com/profile/Abdurahmon_571)
 - 💻 GitHub: [Abdurahmon1274](https://github.com/Abdurahmon1274)
 
 ---
